@@ -10,6 +10,8 @@
 
 # URL Uploader Bot
 
+<a href="https://heroku.com/deploy?template=https://github.com/Jegaa1/URL_Uploader_Bot/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku Button"></a>
+
 This is the source code of [URL Uploader Bot](https://t.me/URL_UploaderAJ_Bot).
 And the developer of this bot is [AJTimePyro](https://t.me/AJTimePyro), His Telegram [Channel](http://t.me/AJPyroVerse) & [Group](http://t.me/AJPyroVerseGroup).
 
